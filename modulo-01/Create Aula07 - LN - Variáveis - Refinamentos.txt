@@ -1,21 +1,48 @@
 Passo a passo: 
-   (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+  (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+  (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
+  (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
 
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros.
 
-Q1 - Escreva um algotitimo usando linguagem natural que calcule a some de dois números inteiros
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: NADA.
+    (3) Processamento: cálculo da soma destes dois números inteiros (1).
 
     1. Leia / Pegue os valores desses dois números;
     2. O resultado será a soma desses dois números;
 
-Q2 - Escreva um algotitimo usando linguagem natural que calcule a some de dois números inteiros e mostre o resultado.
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros e mostre o resultado.
+
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: Resultado da soma destes dois números inteiros.
+    (3) Processamento: cálculo da soma destes dois números inteiros (1).
 
     1. Leia / Pegue os valores desses dois números;
     2. O resultado será a soma desses dois números;
     3. Mostre o resultado desta soma.
 
-Q3 - Escreva um algotitimo usando linguagem natural que leia dois números inteiros 'a' e 'b', 
-    calcule a soma destes números e mostre o resultado.
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a soma destes números e mostre o resultado.
+
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado da soma de 'a' mais 'b'.
+    (3) Processamento: cálculo da soma de 'a' mais 'b'.
 
     1. Leia os valores de 'a' e 'b';
     2. O resultado será a soma de 'a' mais 'b';
     3. Mostre o resultado desta soma.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] + [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] + [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
