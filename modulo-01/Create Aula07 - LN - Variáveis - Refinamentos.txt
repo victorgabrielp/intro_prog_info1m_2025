@@ -1,0 +1,21 @@
+Passo a passo: 
+   (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+
+
+Q1 - Escreva um algotitimo usando linguagem natural que calcule a some de dois números inteiros
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a soma desses dois números;
+
+Q2 - Escreva um algotitimo usando linguagem natural que calcule a some de dois números inteiros e mostre o resultado.
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a soma desses dois números;
+    3. Mostre o resultado desta soma.
+
+Q3 - Escreva um algotitimo usando linguagem natural que leia dois números inteiros 'a' e 'b', 
+    calcule a soma destes números e mostre o resultado.
+
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a soma de 'a' mais 'b';
+    3. Mostre o resultado desta soma.
