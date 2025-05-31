@@ -1,10 +1,5 @@
 Q4 - Escreva um algoritmo usando linguagem natural que calcule a subtração de dois números inteiros e mostre o resultado.
 
-Passo a passo:
-(1) Entrada: dois números inteiros.
-(2) Saída: Resultado da subtração destes dois números inteiros.
-(3) Processamento: cálculo da subtração destes dois números inteiros.
-
     1. Leia / Pegue os valores desses dois números;
     2. O resultado será a subtração desses dois números;
     3. Mostre o resultado desta subtração.
@@ -15,12 +10,17 @@ Passo a passo:
     3. [resultado] = [a] - [b];
     4. Mostre [resultado].
 
-Q5 - Escreva um algoritmo usando linguagem natural que calcule a multiplicação de dois números inteiros e mostre o resultado.
+    Refinamento:
 
-Passo a passo:
-(1) Entrada: dois números inteiros.
-(2) Saída: Resultado da multiplicação destes dois números inteiros.
-(3) Processamento: cálculo da multiplicação destes dois números inteiros.
+    1.Leia [a];           read [a]           scan [a]           in [a]
+
+    2.Leia [b];           read [b]           scan [b]           in [b]
+
+    3.[resultado] = [a] - [b];
+
+    4.Mostre [resultado].  show [resultado]  print [resultado]  out [resultado]
+
+Q5 - Escreva um algoritmo usando linguagem natural que calcule a multiplicação de dois números inteiros e mostre o resultado.
 
     1. Leia / Pegue os valores desses dois números;
     2. O resultado será a multiplicação desses dois números;
@@ -32,18 +32,24 @@ Passo a passo:
     3. [resultado] = [a] * [b];
     4. Mostre [resultado].
 
-Q6 - Escreva um algoritmo usando linguagem natural que calcule a divisão de dois números inteiros e mostre o resultado, garantindo que o divisor não seja zero.
+    Refinamento:
 
-Passo a passo:
-(1) Entrada: dois números inteiros.
-(2) Saída: Resultado da divisão de um número pelo outro ou mensagem de erro.
-(3) Processamento: verificar se o divisor é diferente de zero. Se for, fazer a divisão. Caso contrário, mostrar erro.
+    1.Leia [a];           read [a]           scan [a]           in [a]
+
+    2.Leia [b];           read [b]           scan [b]           in [b]
+
+    3.[resultado] = [a] * [b];
+
+    4.Mostre [resultado].  show [resultado]  print [resultado]  out [resultado]
+
+
+Q6 - Escreva um algoritmo usando linguagem natural que calcule a divisão de dois números inteiros e mostre o resultado.
 
     1. Leia / Pegue os valores desses dois números;
-    2. Verifique se o segundo número é diferente de zero;
-        - Se for, divida o primeiro pelo segundo;
-        - Senão, mostre uma mensagem de erro.
-    3. Mostre o resultado da divisão (se houver).
+    2. Verifique se o segundo número (b) é diferente de zero;
+    3. Se for diferente de zero, calcule a divisão de a por b;
+    4. Mostre o resultado da divisão;
+    5. Caso contrário, mostre uma mensagem de erro.
 
     Refinamento:
     1. Leia [a];
@@ -51,6 +57,15 @@ Passo a passo:
     3. Se [b] ≠ 0, então:
         3.1 [resultado] = [a] / [b];
         3.2 Mostre [resultado];
-    4. Senão:
-        4.1 Mostre "Erro: divisão por zero".
+       Senão:
+        3.3 Mostre "Erro: divisão por zero".
 
+    Refinamento:
+
+    1.Leia [a];           read [a]           scan [a]           in [a]
+
+    2.Leia [b];           read [b]           scan [b]           in [b]
+
+    3.[resultado] = [a] / [b];
+
+    4.Mostre [resultado].  show [resultado]  print [resultado]  out [resultado]
